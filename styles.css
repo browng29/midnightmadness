@@ -167,3 +167,8 @@ a:hover {
 		font-size: 2.5em;
 	}
 }
+
+ol li {
+	list-style-type:decimal;
+	color: #4a4a4a;
+}
